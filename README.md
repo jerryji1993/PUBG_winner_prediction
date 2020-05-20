@@ -13,6 +13,7 @@ All scripts and notebooks are inside Codes/ folder. Specifically, I compared use
 * Momentum-accelerated gradient descent
 * Adam
 * RMSProp
+
 These baselines were compared with more advanced ML/DL algorithms, including
 * Perceptron (in combination with 5 types of optimizers)
 * Decision Tree
