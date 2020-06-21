@@ -22,3 +22,6 @@ These baselines were compared with more advanced ML/DL algorithms, including
 * LightGBM
 * DNN
 * ResNet
+
+## Any questions?
+Contact me at jerryji1993@gmail.com!
